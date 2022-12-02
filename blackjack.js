@@ -79,7 +79,7 @@ function newCard() {
     cards.push(thirdCard);
     console.log(cards);
     rendertGame();
-    drawCardSound();                                                                 //new card sound function
+    drawCardSound();                                                                 //new card sound
 }
 
 function resetGame() {
