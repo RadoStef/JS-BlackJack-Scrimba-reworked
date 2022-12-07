@@ -14,3 +14,8 @@ To try my JavaScript skills, Ive added some new functionalities to the game. The
 </ul>
 If you want, you can play the game here => <a href="https://www.sitefocus.eu/radoslav/blackjack.html" target="_blank"> BlackJack Reworked </a>
 <p>Enjoy</p>
+
+<img src='https://sitefocus.eu/radoslav/blackjack.jpg' alt='the blackjack reworked game'>
+<hr>
+<img src='https://sitefocus.eu/radoslav/blackjack1.jpg' alt='the blackjack reworked game'>
+<hr>
