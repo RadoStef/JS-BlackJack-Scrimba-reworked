@@ -1,7 +1,7 @@
 # JS-BlackJack-Scrimba-reworked
 A Blackjack game I`ve made using the scrimba course "credits: https://scrimba.com/playlist/p3py7U7"... but reworked by me, with some additional extras :)
 
-To try my JavaScript skills, Ive added some new functionalities to the game. They are listed below:
+To try my JavaScript skills, I've added some new functionalities to the game. They are listed below:
 ------------------------------------------------------------------
 <ul>
 <li>Introduce player button;</li>
